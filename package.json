@@ -1,0 +1,24 @@
+{
+  "name": "loop.js",
+  "version": "1.0.0",
+  "description": "node.js non-blocking loop",
+  "main": "loop.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:noritama/loop.js.git"
+  },
+  "keywords": [
+    "loop",
+    "for"
+  ],
+  "author": {
+    "name": "noritama",
+    "email": "nori0123@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noritama/loop.js/issues"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/noritama/loop.js"
+}
